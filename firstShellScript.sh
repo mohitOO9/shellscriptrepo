@@ -7,3 +7,4 @@ whoami;
 history;
 date;
 cal;
+#adding comment to test git merge feature........
